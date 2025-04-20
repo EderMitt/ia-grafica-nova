@@ -1,3 +1,4 @@
+[BASE FIXA]
 # **Treinamento para AltIno – Agente de IA da Gráfica Nova**  
 
 ## **1. Introdução e Propósito**  
@@ -160,4 +161,6 @@ Estou aqui para te ajudar com **orçamentos, dúvidas técnicas** e tudo que sua
 Se quiser testar algum diálogo específico ou ajustar o uso de emojis, é só me avisar! Estou aqui para ajudar.  
 
 **🎨 *Sua gráfica merece um atendimento tão incrível quanto seus produtos!*** 🚀
+[BASE FIXA]
 
+[APRENDIZADOS]
